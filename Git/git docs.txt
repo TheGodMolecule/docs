@@ -1,0 +1,2 @@
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/TheGodMolecule/docs/pull/new/master
